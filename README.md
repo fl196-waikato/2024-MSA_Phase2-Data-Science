@@ -8,6 +8,6 @@ For the summary sections, you can check the files "MSA-Phase2-Part1_Summary.pdf"
 
 If you want to see some details about the printed messages, you can review the file "Code and summary including printed messages."
 
-Part 3 - Deep Learning is in the file "MSA_Phase2_DeepLearning_codes and summary.ipynb." Additionally, the prediction file, which was also submitted on Kaggle, is named "cnn_predictions with deep learning." The summary file is named "MSA_Phase2_DeepLearning_summary.pdf."
+Part 3 - Deep Learning is in the file "MSA_Phase2_DeepLearning_codes and summary.ipynb." Additionally, the prediction file, which was also submitted on Kaggle, is named "cnn_predictions with deep learning.csv" The summary file is named "MSA_Phase2_DeepLearning_summary.pdf."
 
 
